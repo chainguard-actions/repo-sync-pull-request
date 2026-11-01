@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v2.12.1 | [`v2.12.1`](https://github.com/chainguard-actions/repo-sync-pull-request/tree/v2.12.1) | [`7e79a9f`](https://github.com/repo-sync/pull-request/commit/7e79a9f5dc3ad0ce53138f01df2fad14a04831c5) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v2.12.1 | [`v2.12.1`](https://github.com/chainguard-actions/repo-sync-pull-request/tree/v2.12.1) | [`7e79a9f`](https://github.com/repo-sync/pull-request/commit/7e79a9f5dc3ad0ce53138f01df2fad14a04831c5) | [`HARDENING.md`](https://github.com/chainguard-actions/repo-sync-pull-request/blob/v2.12.1/HARDENING.md) |
 
 ## Privacy
 
